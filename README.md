@@ -13,7 +13,9 @@ employees reach retirement age.
 *	29414 Senior Engineers, 28254 Senior Staffs, 14222 Engineers, 12243 Staffs, 4502 Technique Leaders, 1761 Assistant Engineers and 2 Managers comprised of 90,398 employees reached retirement age.
 
 ### Figure 1 
- 
+
+![retiring_titles.png](https://github.com/shownok-afk/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
+
 ### The Employees Eligible for the Mentorship Program
 *	Only 1549 employees are eligible for mentorship, which is 0.51% of total employees.
 
@@ -22,18 +24,20 @@ employees reach retirement age.
 ## Summary
 Form our analysis we conclude with some questions and answer given below.
 
-Q1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Answer: Total of 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact. 
 
-Q2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Answer: Against one mentor there will be 58 beginners. Ratio is 1:58. No, there are not enough employees to mentor next generation of Pewlett Hackard.
 
 ### Suggestions 
 To understand the situation better we may ask following questions
 
-Q1) How many qualified retirement ready employees are there per title.
+* How many qualified retirement ready employees are there per title.
 Answer: From figure 2 we can see the number of eligible employees per title.
 
 ### Figure 2
+
+![mentorship_eligibilty.png](https://github.com/shownok-afk/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.png)
  
- Q2) To minimize the "silver tsunami" impact we may create another table to find out how many positions can be filled from inside of the organization? 
+ * To minimize the "silver tsunami" impact we may create another table to find out how many positions can be filled from inside of the organization? 
